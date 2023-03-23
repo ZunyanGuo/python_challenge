@@ -1,4 +1,4 @@
-#### For PyBank
+## For PyBank
 ##1.get folder and files prepared.
 ##2.loop through rows in csv file, count the number of month, calculare the net total amount of P&l, and seperate date and P&L as 2 lists.
 ##3.create a new list that contains changes in P&L for each month.
